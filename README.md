@@ -4,8 +4,8 @@ A beginner-friendly image classification project using a Convolutional Neural Ne
 
 Key Features:
 
-Loads and preprocesses CIFAR-10 image dataset
-Builds a simple CNN using convolution, pooling, and dense layers
-Trains the model and evaluates accuracy on test data
-Visualizes training vs. validation accuracy
-Displays sample image predictions with actual and predicted labels
+> Loads and preprocesses CIFAR-10 image dataset
+> Builds a simple CNN using convolution, pooling, and dense layers
+> Trains the model and evaluates accuracy on test data
+> Visualizes training vs. validation accuracy
+> Displays sample image predictions with actual and predicted labels
